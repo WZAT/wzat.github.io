@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ATSH86KAKV.de.sva.medpower.mobile",
+                "paths": ["*"]
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "de.sva.medpower.mobile",
+               "sha256_cert_fingerprints": ["CD:AE:8B:7F:A1:2E:FE:5D:A4:D6:D2:47:0E:5E:BE:76:83:88:AB:66:1E:F8:05:2C:DD:13:61:96:E7:9D:B9:20"] }
+}]
