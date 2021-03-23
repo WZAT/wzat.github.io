@@ -5,6 +5,10 @@
             {
                 "appID": "HKUF8482E2.de.sva.medpower",
                 "paths": ["*"]
+            },
+	   {
+                "appID": "ATSH86KAKV.de.sva.medpower.mobile",
+                "paths": ["*"]
             }
         ]
     }
